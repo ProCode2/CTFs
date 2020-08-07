@@ -1,0 +1,3 @@
+Method: ssh into the game shell, go to the problem directory and run  "cat */* | grep -oE "picoCTF{.*?}"
+
+flag: picoCTF{grep_r_to_find_this_0898e9c9}
