@@ -1,0 +1,5 @@
+Flag is in the pdf file.
+
+Password(for pdf): Im The Flag
+
+flag: CTFlearn{T3Rm1n4l_is_C00l}
